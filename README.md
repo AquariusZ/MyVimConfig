@@ -1,4 +1,4 @@
-## 这是什么？
+# 这是什么？
 
 这是我的vim配置备份文件
 
@@ -27,9 +27,16 @@
 | **leader** l | **C-W** l            |
 | jj           | **Esc**              |
 | **leader** v | **Edit** **vimrc**   |
-| <leader>V    | **reload** **vimrc** |
+| **leader** V | **reload** **vimrc** |
 | **<**        | **<gv**              |
 | **>**        | **>gv**              |
 | **0**        | **^**                |
 | **tab**      | **Coc-complete**     |
 
+## 第三方插件配置
+
+| **leader** n | **:NERDTreeToggle** |
+| ------------ | ------------------- |
+|              |                     |
+|              |                     |
+|              |                     |
